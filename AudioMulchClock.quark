@@ -3,8 +3,8 @@
 	\path:			"AudioMulchClock",
 	\summary:		"clock that synchronises with the AudioMulch program over network",
 	\author:			"Fredrik Olofsson & Jonatan Liljedahl",
-	\helpdoc:			"AudioMulchClock.html",
-	\url:				"http://www.fredrikolofsson.com/",
+	\schelp:			"AudioMulchClock",
+	\url:				"https://www.fredrikolofsson.com/",
 	\since:			"2010",
-	\version:			2.1
+	\version:		"2.1",
 )
